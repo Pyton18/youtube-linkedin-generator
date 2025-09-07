@@ -1,0 +1,16 @@
+# Core dependencies
+youtube-transcript-api>=0.6.1
+transformers>=4.30.0
+torch>=2.0.0
+nltk>=3.8.1
+
+# Optional: For audio fallback (Whisper)
+yt-dlp>=2023.7.6
+openai-whisper>=2023.7.6
+
+# Optional: For better text processing
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Development
+python-dotenv>=1.0.0
