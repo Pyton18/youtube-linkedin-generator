@@ -63,3 +63,6 @@ transformers_cache/
 *.wav
 *.mp3
 *.m4a
+
+# Hugging Face cache by Grok
+.cache/huggingface/
